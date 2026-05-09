@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "A spreadsheet-like application to track annual and monthly income and expenses for a household.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
